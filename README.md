@@ -1,6 +1,6 @@
-# 🌡️ Fever Scan Pro — Advanced Standalone Edition
+# 🌡️ Patient Record System — Advanced Disease Prediction
 
-**Fever Scan Pro** is an intelligent web-based medical analysis system that uses a rule-based AI model to predict and analyze common fever-related diseases such as **Dengue, Malaria, Typhoid, Viral Fever, Influenza, and COVID-19**.  
+**Patient Record System** is an intelligent web-based medical analysis system that uses a rule-based AI model to predict and analyze common fever-related diseases such as **Dengue, Malaria, Typhoid, Viral Fever, Influenza, and COVID-19**.  
 It provides diagnosis insights, treatment plans, and a smart doctor dashboard for patient record management — all in a sleek, responsive interface.
 
 ---
